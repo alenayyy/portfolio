@@ -6,16 +6,14 @@ body, html {
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
-
-
+  font-family: 'Ubuntu', sans-serif;
 }
 
 * {
   box-sizing: border-box;
 }
 
-h1, h2 {
+h1, h2, h3, h4 {
   margin: 0;
 }
 
@@ -28,44 +26,8 @@ ul {
 
 }
 
-h1 {
-  font-weight: 600;
-}
-
 a {
   color: black;
   padding: 1.2em;
   text-decoration: none;
-
-}
-
-/* Header *******/
-
-
-
-/* Nav *******/
-
-
-/* Portofolio Top *******/
-
-.image_description {
-  max-width: 100%;
-}
-
-/* Portofolio Work *******/
-
-
-.portfolio_work {
-}
-
-.portfolio_item {
-  margin: 1em;
-
-}
-
-.wrapper_work {
-}
-
-.portfolio_item img {
-  max-width: 100%;
 }
