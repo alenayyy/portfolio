@@ -7,6 +7,8 @@ body, html {
 
 body {
   font-family: 'Ubuntu', sans-serif;
+  font-size: 14px;
+  color: #424242;
 }
 
 * {
@@ -17,8 +19,6 @@ h1, h2, h3, h4 {
   margin: 0;
 }
 
-/* Common *******/
-
 ul {
   list-style: none;
   margin: 0;
@@ -27,7 +27,9 @@ ul {
 }
 
 a {
-  color: black;
+  color: #424242;
   padding: 1.2em;
   text-decoration: none;
+
+
 }
